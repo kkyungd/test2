@@ -13,5 +13,3 @@ feature first
 feature second 
 develop two feature
 feature third
-
-feature should be set
